@@ -1,0 +1,11 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main-1{
+	margin-top: -10px;
+}
+.main-2{
+	border-bottom: 2px dotted black;
+	background: white;
+}
